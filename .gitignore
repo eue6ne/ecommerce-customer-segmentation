@@ -15,5 +15,6 @@ __pycache__/
 # environment variables
 .env
 
-# large raw data
+# large data
 data/raw/
+data/processed/
